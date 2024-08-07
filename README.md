@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on some plugins for game development engines, such as Unreal and Unity and this is where all the code is going to be hosted, public for all free plugins and private for the paid ones (I'm sorry, I also have to pay the bills :sweat_smile:)
+  - Currently having a total of `0` plugins! I counted! Twice! (well, let's see how this joke ages, haha)
+- 💬 Suggestions are absolutely welcome! I will setup some communication channel if things really take off.
+
+✨ Cheers ✨
+Giovanni
 <!--
 **Giovanni-Maia/Giovanni-Maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
