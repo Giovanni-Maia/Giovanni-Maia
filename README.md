@@ -5,6 +5,7 @@
 - 💬 Suggestions are absolutely welcome! I will setup some communication channel if things really take off.
 
 ✨ Cheers ✨
+
 Giovanni
 <!--
 **Giovanni-Maia/Giovanni-Maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
